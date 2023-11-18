@@ -1,2 +1,2 @@
 # js-practice
-A code repo for javascript series practising from youtube
+A code repo for javascript series practicing from youtube
